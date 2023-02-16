@@ -1,0 +1,13 @@
+#navbar {
+    background-color: cadetblue;
+    padding: 20px;
+    display: flex;
+}
+
+#navbar input {
+    border-radius: 20px;
+    margin-inline-start: 20px;
+    width: 300px;
+    border-style: none;
+    padding-inline-start: 12px;
+}

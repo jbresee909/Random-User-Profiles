@@ -1,0 +1,7 @@
+#user-card-container {
+    display: grid;
+    grid-template-columns: 24% 24% 24% 24%;
+    grid-gap: 10px;
+    padding: 10px;
+    width: 100%;
+}

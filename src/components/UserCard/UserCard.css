@@ -1,0 +1,26 @@
+.user-card {
+    background-color: rgba(255, 255, 255, 0.8);
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.user-card img {
+    width: 100px;
+    border-radius: 50%;
+}
+
+.user-card small {
+    font-size: 16px;
+}
+
+.user-card h4 {
+    font-size: 24px;
+}
+
+a {
+    text-decoration: none;
+    color: #333
+}
